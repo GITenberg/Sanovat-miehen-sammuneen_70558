@@ -1,0 +1,42 @@
+_repo: Sanovat-miehen-sammuneen_70558
+_version: 0.0.1
+alternative_title: Un uomo finito. Finnish
+contributor:
+  translator:
+    agent_name: Hollo, J. A. (Juho Aukusti)
+    alias: Hollo, Juho Aukusti
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '47352'
+    url: http://www.gutenberg.org/2009/agents/47352
+    wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+creator:
+  author:
+    agent_name: Papini, Giovanni
+    alias: Papini, G. (Giovanni)
+    birthdate: 1881
+    deathdate: 1956
+    gutenberg_agent_id: '54291'
+    url: http://www.gutenberg.org/2009/agents/54291
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Giovanni_Papini
+    - https://en.wikipedia.org/wiki/Giovanni_Papini
+description: ''
+gutenberg_issued: '2023-04-15'
+identifiers:
+  gutenberg: '70558'
+language: fi
+pgterms:marc905: 20221125055428papini
+pgterms:marc906: '1925'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aFinland :$bOtava, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: Sanovat miehen sammuneen
+url: http://www.gutenberg.org/ebooks/70558
