@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '47352'
     url: http://www.gutenberg.org/2009/agents/47352
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Hollo
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Papini, Giovanni
@@ -22,6 +25,8 @@ creator:
     - https://it.wikipedia.org/wiki/Giovanni_Papini
     - https://en.wikipedia.org/wiki/Giovanni_Papini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70558#Sanovat-miehen-sammuneen
 gutenberg_issued: '2023-04-15'
 identifiers:
   gutenberg: '70558'
